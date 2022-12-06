@@ -4,6 +4,9 @@ An immersive JRPG set in the Breaking Bad Universe.
 ## Description
 The goal of this project is to create a Breaking Bad JRPG-style video game where players get to take control of iconic characters, including Walt Jr., Marie, and even Bogdan, owner of the A1A Car Wash.
 
+## Current Modules
+* ### To be added... 
+
 ## Authors
 * goobyn / njg234
 
