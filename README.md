@@ -15,4 +15,4 @@ The goal of this project is to create a Breaking Bad JRPG-style video game where
   * Project Announcement
 
 ## License
-This project is licensed uner the MIT License - see the LICENSE.md file for details.
+This project is licensed uner the MIT License.
