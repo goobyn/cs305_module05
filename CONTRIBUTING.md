@@ -6,4 +6,4 @@ There is one rule, and one rule only: Respect the lore of the BBU (Breaking Bad 
   * A BBU introduction can be found [here.](https://youtu.be/8dckaa1vhQw)
 
 ## Contributors:
-  * *Contributor name will go here*
+  * Carter K.
