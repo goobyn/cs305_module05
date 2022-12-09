@@ -7,3 +7,4 @@ There is one rule, and one rule only: Respect the lore of the BBU (Breaking Bad 
 
 ## Contributors:
   * Carter K.
+  * Brandon W.
